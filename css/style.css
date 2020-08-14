@@ -1,0 +1,22 @@
+fieldset{
+    border-radius: 10px;
+    text-align: justify;
+    background-color: white;
+    font-weight: bold;
+    font-size: large;
+}
+
+body{
+    background-color: rgb(233, 233, 233);
+    text-align: center;
+    font-family: HelveticaNeue;
+}
+
+@font-face{
+    font-family: HelveticaNeue;
+    src: url(../font/HelveticaNeueLTCom-UltLt.ttf);
+}
+
+h1{
+    font-size: 100px;
+}
